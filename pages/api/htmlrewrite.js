@@ -204,7 +204,7 @@ const headStr = `
 
     .navigation__icon {
       position: fixed;
-      bottom: 0.3rem;
+      bottom: 1rem;
       left: 4rem;
       visibility: hidden;
       z-index: 98;
@@ -248,7 +248,7 @@ const headStr = `
     }
 
     .logo {
-      width: 1.3em;
+      width: 2em;
     }
     .footer {
       position: absolute;
