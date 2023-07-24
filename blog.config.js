@@ -9,7 +9,7 @@ const BLOG = {
     ? process.env.CRAFT_CONFIG_SHARE_URL
     : 'https://www.craft.me/s/FAomUyW9l7y6Rq', // The link to share your craft config
   seo: {
-    keywords: ['Blog', 'Craft.do', 'Craft Docs', 'Next.js', 'TailwindCSS']
+    keywords: ['Blog','个人博客','Craft Docs', '车迟国驿站', '销售管理','企业软件','创业','开源']
   },
   analytics: {
     provider: 'umami', // Currently support Umami, fill with 'umami' to enable or leave it empty to disable it.
