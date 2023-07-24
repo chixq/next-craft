@@ -132,7 +132,7 @@ const headStr = `
 
     .navigation__button {
       position: absolute;
-      bottom: 0.3rem;
+      bottom: 1rem;
       left: 1.2rem;
       padding-top: 0.4rem;
       height: 2rem;
@@ -204,7 +204,7 @@ const headStr = `
 
     .navigation__icon {
       position: fixed;
-      bottom: 1rem;
+      bottom: 0.3rem;
       left: 4rem;
       visibility: hidden;
       z-index: 98;
